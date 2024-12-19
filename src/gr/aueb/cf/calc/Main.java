@@ -18,5 +18,10 @@ public class Main {
         return a + b;
     }
 
+    public static int div(int a, int b) {
+        System.out.println("gargh");
+        return a / b;
+    }
+
 
 }
